@@ -15,7 +15,7 @@ After launch the applicaiton, a running progress bar will be shown while network
   <summary>Table of Contents</summary>
   <ol>
     <li><a>Dagger Hilt</a></li>
-    <li><a>Mvvm architecture</a></li>
+    <li><a>MVVM architecture</a></li>
     <li><a>Coroutines</a></li>
     <li><a>ViewBinding</a></li>
     <li><a>Picasso</a></li>
