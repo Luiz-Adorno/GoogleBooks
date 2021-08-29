@@ -2,7 +2,7 @@
 
 GoogleBooks is a personal project to study about Coroutines and dependency injection with Dagger Hilt. 
 
-After launch the applicaiton, a running progress bar will be shown while network data is retrieved, and once the data is obtained, it'll be cached and displayed on the screen.
+After launch the applicaiton, a network data is retrieved, and once the data is obtained, it'll be displayed on the screen a list of books.
 
 ![readme](https://user-images.githubusercontent.com/41413741/131266827-67479ad8-1d53-49b7-b811-74c0df75c8af.png)
 
